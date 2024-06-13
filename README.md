@@ -51,15 +51,15 @@
  </div>
  
  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rameen-amir&layout=compact)
  
  
  
  
  ## GitHub Stats
- ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
+ ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameen-amir&show_icons=true&theme=tokyonight)
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen714"/> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen-amir"/> 
 
 
  
