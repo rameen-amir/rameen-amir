@@ -6,8 +6,8 @@
 -->
 
 ## 👩About Me👋
-        Currently, I am in my final semester in Software Engineering Degree Program at FAST-NUCES Lahore.
-        * I am interested in Artificial Intelligence and Web technologies. 
+        An SE Graduate from FAST-NUCES Lahore, thriving at Dubizzle Labs, turning innovative ideas into impactful solutions. 
+        * I am interested in AI and Web technologies. 
         * I love coding, solving problems and organizing things.
         * Honesty and sincerity are my core values.
         * Quality work is my first preference always.
@@ -78,6 +78,7 @@
  >   * Artificial Intelligence
  >   * Information Security
  >   * Data Science
+ >   * Internet of Things 
  > * *Software Engineering-Related Courses:*  
  >   - Software Requirements Engineering  
  >   - Software Design and Architecture  
