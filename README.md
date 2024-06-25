@@ -2,7 +2,7 @@
 
 <!-- view counter
 
-![](https://komarev.com/ghpvc/?username=rameen714&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=rameen-amir&color=blueviolet&style=plastic)
 -->
 
 ## 👩About Me👋
